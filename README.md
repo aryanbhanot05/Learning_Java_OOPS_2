@@ -1,6 +1,6 @@
 # Learning_Java_OOPS_2
 
-**Learning_Java_OOPS_2** is a repository of personal notes and practice code developed while learning advanced Java (core) and Object-Oriented Programming concepts. All files were self-created to imagine and implement different scenarios, helping to understand and reinforce core Java principles[1].
+**Learning_Java_OOPS_2** is a repository of personal notes and practice code developed while learning advanced Java (core) and Object-Oriented Programming concepts. All files were self-created to imagine and implement different scenarios, helping to understand and reinforce core Java principles.
 
 ---
 
@@ -50,7 +50,7 @@ Learning_Java_OOPS_2/
 
 ## ℹ️ Notes
 
-- All materials are original, written for personal mastery of Java and OOP concepts[1].
+- All materials are original, written for personal mastery of Java and OOP concepts.
 - This repository is for educational use only.
 
 ---
